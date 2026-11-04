@@ -1,0 +1,1 @@
+cat.glb: "Cat" by Quaternius, via poly.pizza/m/qKICY6xla2 (Public Domain, CC0). A rigged quadruped with Run, Walk, Idle and Jump clips; used by the "You like cats?" easter egg (src/components/shared/cat). Swap in a richer model with the same clip names (Run, Walk, Jump_Loop, Idle) and bones (Head, Tail) to upgrade the look without code changes.
